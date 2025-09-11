@@ -1,4 +1,8 @@
 # Project: Content Recommendation System
+Demonstration Video :- https://drive.google.com/file/d/1q773KSqRKRQEOqyqE1pg6F69ONb4O-J5/view?usp=sharing
+PPT:- https://drive.google.com/file/d/1Jl4RqDJCrlJa0MbYmu9ekz7-sba8Ue5d/view?usp=sharing
+Report:- https://drive.google.com/file/d/1Ys62EmzMPlbBQyB7o5WpxPXL155bY1VB/view?usp=sharing
+
 
 Recommendation systems are becoming increasingly important in today’s extremely busy world. People are always short on time with the myriad tasks they need to accomplish in the limited 24 hours. Therefore, the recommendation systems are important as they help them make the right choices, without having to expend their cognitive resources.
 
