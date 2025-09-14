@@ -1,4 +1,4 @@
-api_key = "d27704d644a95b6a5a5b958c3138d638"
+api_key = "api_key"
 
 import pickle
 import streamlit as st
